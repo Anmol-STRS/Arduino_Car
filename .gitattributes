@@ -2,4 +2,4 @@
 * text=auto
 * linguist-detectable
 *.c linguist-detectable=true
-*.cpp linguist-detecable =false
+*.cpp linguist-detecable=false
