@@ -1,14 +1,4 @@
-/* *************************************************************************
- 
-  Part 1 and Part 2 of Milestone 3 are integrated into 1 whole program. 
-  The program includes the combined function for the IR remote and thr 
-  automatic code for the car to follow the designated path. The automatic 
-  function is integratd to Remote button "TEST" as when it's pressed the car 
-  will follow the designated path.
 
-  GROUP MEMBER:- ANMOL DHIMAN and NAVJOT KAUR 
-
-  ************************************************************************** */
    
 #include "Freenove_WS2812B_RGBLED_Controller.h"
 #include "IRremote.h"
